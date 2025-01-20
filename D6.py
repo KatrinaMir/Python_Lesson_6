@@ -26,7 +26,6 @@ def main():
 	for result in functions:
 		if result:
 			score += 2
-
 	print("Рейтинг пароля:", score)
 
 
