@@ -3,7 +3,7 @@ def has_digit(password):
 
 
 def is_very_long(password):
-	return len(password) > 12 
+	return len(password) > 12
 
 
 def has_upper_letters(password):
